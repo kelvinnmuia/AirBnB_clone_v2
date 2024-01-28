@@ -23,7 +23,6 @@ def states():
     return render_template("9-states.html", state=states)
 
 
-
 @app.route("/states/<id>", strict_slashes=False)
 def states_id(id):
     """Displays an HTML page with info about <id>, if it exists."""
