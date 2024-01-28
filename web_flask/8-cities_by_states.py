@@ -22,6 +22,7 @@ def cities_by_states():
     States/cities sorted by name.
     """
 
+
 states = storage.all("State")
 return render_template("8-cities_by_states.html", states=states)
 
