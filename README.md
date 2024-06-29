@@ -400,7 +400,7 @@ SQLAlchemy will be your best friend!
 
 It’s time to change your storage engine and use `SQLAlchemy`
 
-[image]
+![alt text](./airbnb-clone-db-relations.jpg)
 
 In the following steps, you will make multiple changes:
 
@@ -914,3 +914,16 @@ guillaume@ubuntu:~/AirBnB_v2$
 
   * [models/amenity.py](https://github.com/kelvinnmuia/AirBnB_clone_v2/blob/master/models/amenity.py)
   * [models/place.py](https://github.com/kelvinnmuia/AirBnB_clone_v2/blob/master/models/place.py)
+
+## Additional Project Resources
+
+  * [cmd module](https://docs.python.org/3/library/cmd.html)
+  * [unittest module](https://docs.python.org/3/library/unittest.html#module-unittest)
+  * [args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+  * [SQLAlchemy tutorial](https://docs.sqlalchemy.org/en/13/orm/tutorial.html)
+  * [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
+  * [Python3 and environment variables](https://docs.python.org/3/library/os.html#os.getenv)
+  * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
+  * [MySQL 8.0 SQL Statement Syntax](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+  * [the Unittest module - 26.3.6. Skipping tests and expected failures](https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures)
+  * [Many-To-Many](https://docs.sqlalchemy.org/en/13/orm/basic_relationships.html)
