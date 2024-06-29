@@ -165,6 +165,10 @@ SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 
 $
 ```
 
+## AirBnB_Clone_Architecture
+
+![alt text](./airbnb-clone-architecture.png)
+
 ## Tasks :page_with_curl:
 
 **0. Fork me if you can!**
@@ -188,7 +192,7 @@ For this project you will fork this codebase:
 
 If you are the owner of this repository, please create a new repository named `AirBnB_clone_v2` with the same content of `AirBnB_clone`
 
-  * [AirBnB_clone_v2]
+  * [AirBnB_clone_v2](https://github.com/kelvinnmuia/AirBnB_clone_v2)
 
 **1. Bug free!**
 
