@@ -8,7 +8,7 @@
 ```
 $ pip3 install Flask
 ```
-![alt text]()
+![alt text](./hbnb_step3.png)
 
 ## Tasks :page_with_curl:
 
@@ -879,3 +879,16 @@ guillaume@ubuntu:~/AirBnB_v2$ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_p
   * [web_flask/templates/100-hbnb.html](./web_flask/templates/100-hbnb.html)
   * [web_flask/static/](./web_flask/static/)
 
+## Additional Project Resources
+
+  * [What is a Web Framework?](https://intelegain-technologies.medium.com/what-are-web-frameworks-and-why-you-need-them-c4e8806bd0fb)
+  * [A Minimal Application](https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application)
+  * [Routing](https://flask.palletsprojects.com/en/2.3.x/quickstart/#routing)
+  * [Rendering Templates](https://flask.palletsprojects.com/en/2.3.x/quickstart/#rendering-templates)
+  * [Synopsis](https://jinja.palletsprojects.com/en/2.9.x/templates/#synopsis)
+  * [Variables](https://jinja.palletsprojects.com/en/2.9.x/templates/#variables)
+  * [Comments](https://jinja.palletsprojects.com/en/2.9.x/templates/#comments)
+  * [Whitespace Control](https://jinja.palletsprojects.com/en/2.9.x/templates/#whitespace-control)
+  * [List of Control Structures](https://jinja.palletsprojects.com/en/2.9.x/templates/#list-of-control-structures)
+  * [Flask](https://palletsprojects.com/p/flask/)
+  * [Jinja](https://jinja.palletsprojects.com/en/2.9.x/templates/)
