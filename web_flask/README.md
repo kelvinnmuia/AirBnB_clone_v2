@@ -876,6 +876,10 @@ guillaume@ubuntu:~/AirBnB_v2$ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_p
 ....
 ```
 
+![alt text](./Places.jpg)
+![alt text](./alabama-state.jpg)
+![alt text](./Illinois-state.jpg)
+![alt text](./more-amenities.jpg)
   * [web_flask/100-hbnb.py](./web_flask/100-hbnb.py)
   * [web_flask/templates/100-hbnb.html](./web_flask/templates/100-hbnb.html)
   * [web_flask/static/](./web_flask/static/)
