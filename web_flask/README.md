@@ -661,7 +661,8 @@ guillaume@ubuntu:~$ curl 0.0.0.0:5000/cities_by_states ; echo ""
 guillaume@ubuntu:~$ 
 ```
 
-![alt text]()
+![alt text](States-Images1.jpg)
+![alt text](Amenities.jpg)
 
   * [web_flask/8-cities_by_states.py](./web_flask/8-cities_by_states.py)
   * [ web_flask/templates/8-cities_by_states.html](./ web_flask/templates/8-cities_by_states.html)
