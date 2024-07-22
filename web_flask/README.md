@@ -834,7 +834,7 @@ guillaume@ubuntu:~/AirBnB_v2$ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_p
 ![image]
 
   * [web_flask/10-hbnb_filters.py](./web_flask/10-hbnb_filters.py)
-  * [web_flask/templates/10-hbnb_filters.html](./ web_flask/templates/10-hbnb_filters.html)
+  * [web_flask/templates/10-hbnb_filters.html](../web_flask/templates/10-hbnb_filters.html)
   * [web_flask/static/](./web_flask/static/)
 
 **12. HBNB is alive!**
