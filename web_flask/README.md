@@ -665,7 +665,7 @@ guillaume@ubuntu:~$
 ![alt text](Amenities.jpg)
 
   * [web_flask/8-cities_by_states.py](./web_flask/8-cities_by_states.py)
-  * [ web_flask/templates/8-cities_by_states.html](./ web_flask/templates/8-cities_by_states.html)
+  * [web_flask/templates/8-cities_by_states.html](./web_flask/templates/8-cities_by_states.html)
 
 **10. States and State**
 
