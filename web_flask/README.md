@@ -831,7 +831,10 @@ guillaume@ubuntu:~/AirBnB_v2$ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_p
 * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ....
 ```
-![image]
+![alt text](hbnb-search.jpg)
+![alt text](hbnb-search1.jpg)
+![alt text](hbnb-search2.jpg)
+![alt text](hbnb-search3.jpg)
 
   * [web_flask/10-hbnb_filters.py](./web_flask/10-hbnb_filters.py)
   * [web_flask/templates/10-hbnb_filters.html](../web_flask/templates/10-hbnb_filters.html)
